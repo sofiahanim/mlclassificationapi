@@ -30,6 +30,8 @@ If u see like below, u are good to go
 6. Try inside postman too
    ![image](https://github.com/user-attachments/assets/78216278-445c-43fb-8f82-904dcde9b212)
 
+7. Can try in cmd
+   ![image](https://github.com/user-attachments/assets/37d123b0-952d-4605-b585-78b0471636f5)
 
 
 Voila! kk bye
