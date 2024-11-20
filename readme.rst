@@ -37,6 +37,6 @@ use http://0.0.0.0:8000/docs for testing the model in the web interface.
  #. Via curl request:
         .. code-block::
 
-            curl -X POST "http://0.0.0.0:8000/predict" -H "accept: application/json" -H "Content-Type: application/json" -d '{"features": [5.1, 3.5, 1.4, 0.2]}'
+            curl -X POST "http://localhost:8000/predict" -H "Content-Type: application/json" -H "Accept: application/json" -d "{\"features\": [5.1, 3.5, 1.4, 0.2]}"
 
 This repository supports a YouTube `video <>`_
